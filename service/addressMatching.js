@@ -4,4 +4,6 @@ function sum(a,b) {
 
 console.log("Newly added.")
 
+console.log("Hello")
+
 module.exports = sum;
